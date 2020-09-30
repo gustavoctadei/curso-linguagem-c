@@ -1,0 +1,2 @@
+Código-Fontes baseados nas aulas do curso Linguagem C Descomplicada do Professor Dr. André Backes
+https://programacaodescomplicada.wordpress.com/
